@@ -2,7 +2,7 @@
 [Язык программирования С++](https://github.com/StriderAJR/StudentCpp/wiki/Язык-программирования-Сpp)
 ## Структурное программирование
 * Переменные и операторы
-* [Программа "Hello, World!"](https://github.com/StriderAJR/StudentCpp/wiki/Программа-"Hello,-World!")
+* [Программа "Hello, World!"](https://github.com/StriderAJR/StudentCpp/wiki/Программа-Hello,-World!)
 * Многомодульное программирование
   * Как происходит компиляция программы
   * Точка входа в программу, функция main
