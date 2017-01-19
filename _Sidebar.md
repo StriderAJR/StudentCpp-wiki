@@ -1,5 +1,5 @@
 # Оглавление
-Язык программирования С++
+[Язык программирования С++](https://github.com/StriderAJR/StudentCpp/wiki/Язык-программирования-С--)
 ## Структурное программирование
 * Переменные и операторы
 * [Программа "Hello, World!"](https://github.com/StriderAJR/StudentCpp/wiki/Программа-"Hello,-World!")
