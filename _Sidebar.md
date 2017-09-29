@@ -16,4 +16,4 @@
 * [Перечисления и объединения](https://github.com/StriderAJR/StudentCpp/wiki/basics_13_enum-union)
 ### ООП
 ***
-* [](https://github.com/StriderAJR/StudentCpp/wiki/oop_01_classes)
+* [Классы](https://github.com/StriderAJR/StudentCpp/wiki/oop_01_classes)
