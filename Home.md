@@ -1,3 +1,4 @@
+---
 const sidebarStyles = {
   sidebar: {
     width: 500
@@ -9,6 +10,7 @@ const sidebarStyles = {
   // other sidebar props
 >
 </Sidebar>
+---
 
 # Теория для проекта StudentCpp
 
