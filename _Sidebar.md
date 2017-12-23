@@ -10,7 +10,7 @@
 * [Функции](https://github.com/StriderAJR/StudentCpp/wiki/basics_07_functions)
 * [Потоки ввода/вывода](https://github.com/StriderAJR/StudentCpp/wiki/basics_08_streams)
 * [Указатель](https://github.com/StriderAJR/StudentCpp/wiki/basics_09_pointer)
-* [Массив](https://github.com/StriderAJR/StudentCpp/wiki/basics_10_array)
+* [Массив](https://github.com/StriderAJR/StudentCpp/wiki/Массивы)
 * [Работа с памятью](https://github.com/StriderAJR/StudentCpp/wiki/basics_11_memory)
 * [Структуры](https://github.com/StriderAJR/StudentCpp/wiki/basics_12_structures)
 * [Перечисления и объединения](https://github.com/StriderAJR/StudentCpp/wiki/basics_13_enum-union)
