@@ -1,6 +1,6 @@
 ### Структурное программирование
 ***
-* [Язык С++](https://github.com/StriderAJR/StudentCpp/wiki/basics_01_cpp-language)
+* [Язык С++](https://github.com/StriderAJR/StudentCpp/wiki/Язык-программирования-С--)
 * [Первая программа](https://github.com/StriderAJR/StudentCpp/wiki/Hello,-World!)
 * [Многомодульное программирование](https://github.com/StriderAJR/StudentCpp/wiki/basics_03_multi-module-program)
 * [Переменные и операторы](https://github.com/StriderAJR/StudentCpp/wiki/Переменные-и-операторы)
