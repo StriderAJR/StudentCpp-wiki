@@ -6,7 +6,7 @@
 * [Переменные и операторы](https://github.com/StriderAJR/StudentCpp/wiki/Переменные-и-операторы)
 * [Локальные и глобальные переменные](https://github.com/StriderAJR/StudentCpp/wiki/basics_04.2_local-and-global-variables)
 * [Условный оператор](https://github.com/StriderAJR/StudentCpp/wiki/basics_05_conditional-operator)
-* [Циклы](https://github.com/StriderAJR/StudentCpp/wiki/basics_06_cycles)
+* [Циклы](https://github.com/StriderAJR/StudentCpp/wiki/Циклы)
 * [Функции](https://github.com/StriderAJR/StudentCpp/wiki/basics_07_functions)
 * [Потоки ввода/вывода](https://github.com/StriderAJR/StudentCpp/wiki/basics_08_streams)
 * [Указатель](https://github.com/StriderAJR/StudentCpp/wiki/basics_09_pointer)
