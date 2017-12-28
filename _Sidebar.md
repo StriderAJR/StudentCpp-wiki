@@ -4,7 +4,7 @@
 * [Первая программа](https://github.com/StriderAJR/StudentCpp/wiki/Hello,-World!)
 * [Многомодульное программирование](https://github.com/StriderAJR/StudentCpp/wiki/basics_03_multi-module-program)
 * [Переменные и операторы](https://github.com/StriderAJR/StudentCpp/wiki/Переменные-и-операторы)
-* [Локальные и глобальные переменные](https://github.com/StriderAJR/StudentCpp/wiki/basics_04.2_local-and-global-variables)
+* [Локальные и глобальные переменные](https://github.com/StriderAJR/StudentCpp/wiki/Локальные-и-глобальные-переменные)
 * [Условный оператор](https://github.com/StriderAJR/StudentCpp/wiki/basics_05_conditional-operator)
 * [Циклы](https://github.com/StriderAJR/StudentCpp/wiki/Циклы)
 * [Функции](https://github.com/StriderAJR/StudentCpp/wiki/basics_07_functions)
