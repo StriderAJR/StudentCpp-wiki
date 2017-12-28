@@ -3,7 +3,7 @@
 * [Язык С++](https://github.com/StriderAJR/StudentCpp/wiki/basics_01_cpp-language)
 * [Первая программа](https://github.com/StriderAJR/StudentCpp/wiki/basics_02_hello-world-program)
 * [Многомодульное программирование](https://github.com/StriderAJR/StudentCpp/wiki/basics_03_multi-module-program)
-* [Переменные и операторы](https://github.com/StriderAJR/StudentCpp/wiki/basics_04.2_variables-and-operators)
+* [Переменные и операторы](https://github.com/StriderAJR/StudentCpp/wiki/Переменные-и-операторы)
 * [Локальные и глобальные переменные](https://github.com/StriderAJR/StudentCpp/wiki/basics_04.2_local-and-global-variables)
 * [Условный оператор](https://github.com/StriderAJR/StudentCpp/wiki/basics_05_conditional-operator)
 * [Циклы](https://github.com/StriderAJR/StudentCpp/wiki/basics_06_cycles)
