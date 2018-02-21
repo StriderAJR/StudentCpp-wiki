@@ -2,10 +2,10 @@
 ***
 * [Язык С++](https://github.com/StriderAJR/StudentCpp/wiki/Язык-программирования-С--)
 * [Первая программа](https://github.com/StriderAJR/StudentCpp/wiki/Hello,-World!)
-* [Многомодульное программирование](https://github.com/StriderAJR/StudentCpp/wiki/basics_03_multi-module-program)
+* [Многомодульное программирование](https://github.com/StriderAJR/StudentCpp/wiki/Многомодульное-программирование)
 * [Переменные и операторы](https://github.com/StriderAJR/StudentCpp/wiki/Переменные-и-операторы)
 * [Локальные и глобальные переменные](https://github.com/StriderAJR/StudentCpp/wiki/Локальные-и-глобальные-переменные)
-* [Условный оператор](https://github.com/StriderAJR/StudentCpp/wiki/basics_05_conditional-operator)
+* [Условный оператор](https://github.com/StriderAJR/StudentCpp/wiki/Условный-оператор)
 * [Циклы](https://github.com/StriderAJR/StudentCpp/wiki/Циклы)
 * [Пошаговая отладка](https://github.com/StriderAJR/StudentCpp/wiki/Пошаговая-отладка)
 * [Функции](https://github.com/StriderAJR/StudentCpp/wiki/Функции)
