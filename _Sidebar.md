@@ -13,7 +13,7 @@
 * [Указатель](https://github.com/StriderAJR/StudentCpp/wiki/Указатель)
 * [Массивы](https://github.com/StriderAJR/StudentCpp/wiki/Массивы)
 * [Работа с памятью](https://github.com/StriderAJR/StudentCpp/wiki/Работа-с-памятью)
-* [Структуры](https://github.com/StriderAJR/StudentCpp/wiki/Стуктуры)
+* [Структуры](https://github.com/StriderAJR/StudentCpp/wiki/Структуры)
 * [Перечисления и объединения](https://github.com/StriderAJR/StudentCpp/wiki/Перечисления-и-объединения)
 ### ООП
 ***
