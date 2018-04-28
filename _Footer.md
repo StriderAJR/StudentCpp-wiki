@@ -1,3 +1,3 @@
-### Want to contribute to this Wiki?
+### Хотите помочь с этими заметками?
 
-[Fork it and send a pull request.](https://github.com/StriderAJR/StudentCpp-wiki)
+[Сделайте fork и отправьте мне pull request.](https://github.com/StriderAJR/StudentCpp-wiki)
