@@ -1,0 +1,15 @@
+script:
+- |-
+  git config user.name "StriderAJR"
+  git config user.email "alexander.a.kirsanov@gmail.com"
+  git remote remove origin
+  git remote add origin https://$GITHUB_API_KEY@github.com/StriderAJR/StudentCpp-wiki.git > /dev/null 2>&1
+  git remote add upstream https://$GITHUB_API_KEY@github.com/triderAJR/StudentCpp.wiki.git > /dev/null 2>&1
+  git fetch origin
+  git fetch upstream
+  git merge upstream/master --no-edit
+  git push origin HEAD:master > /dev/null 2>&1
+  git push upstream HEAD:master > /dev/null 2>&1
+env:
+  matrix:
+    secure: KIFLpNrAXJuib4JO3IiuYgqmP1ntXaAvXf1FAU4MrGzyn6nJJobHPh9cB+fM4UypTkyv2FUYK+THHTsQjGaH/nQQLWRo96IYNkRuD91lJa9qU1Xj1VrWgle94NrtM3Y76FhcwbGWewOFj/P3ObhQoP7uEniGWszIttaA7uNGRJINMC+9PEVq0OoS2tZaoiStM1naQp1Xs3ohDTZyaLbdlR4jUDpF4EFNvyRzDhUmTugxLVMcLI+P32l01jeh5FjdGCbcCUGCceZElAe0NHW6vSKkvDM/0hOOZyrHmyhQOEHRg/p3F3uU4qgDLMoKrOqjC8cMgsjGXUbjS7G2li0Iygy4ZfKBMG+zvWNPJi0OzeMIXcN8dwZoMbDeuYhOKOzw0JotarQ0N3jsyRPoiHAj1N41huyAvja+7g0oXsATSrG/DqnMDmdeHX5H7Fwaz12zf3IRz2F9nGoPIEevhRe/xwCe+9BRcH4mvNnXUEtKdJyO+sI0rQdUlo/HJHrcvmtRcQXxku6DReJ3hauVtfpNaZS5gHPkT2xD1h3Qm3GshQxoDQorVyiA/G14j6xOJfIJTp+oNDflqURrBOOMS8BLoBNMGfyhgyC2yikJm7kqGxepPaRvbbLrc1uSE/k2e7OO0QHocOzSu0x03csvVziTsr8MRMNEDWuYCtenpaShX7w=
