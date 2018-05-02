@@ -19,3 +19,4 @@
 ***
 * [Классы](https://github.com/StriderAJR/StudentCpp/wiki/Классы)
 * [Перегрузка операторов в шаблонном классе](https://github.com/StriderAJR/StudentCpp/wiki/Перегрузка-операторов-в-шаблонном-классе)
+* [Структура против объекта](https://github.com/Solomonov98/StudentCpp-wiki/blob/patch-1/StructVsClass.md#%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0 )
