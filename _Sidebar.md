@@ -21,10 +21,16 @@
 * Потоки ввода/вывода
 * Указатель
 * Массивы
+  * [source Строка как массив](https://github.com/StriderAJR/StudentCpp/blob/master/source/Basics_07.5_Strings.h)
 * Работа с памятью
 #### Составные типы данных
 * [[Структуры|Структуры]]
-* Перечисления и объединения
+* Структуры
+  * [source Структуры](https://github.com/StriderAJR/StudentCpp/blob/master/source/Basics_09_Structures.h)
+* Перечисления
+  * [source Перечисления](...)
+* Объединения
+  * [source Объединения](https://github.com/StriderAJR/StudentCpp/blob/master/source/Basics_10_Unions.h)
 ### ООП
 ***
 #### Классы
